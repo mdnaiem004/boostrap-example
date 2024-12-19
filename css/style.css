@@ -1,0 +1,36 @@
+.carousel-item img{
+  width: 100%;
+  margin: auto;
+  
+}
+.carousel-control-next {
+    position: absolute;
+    top: 250px;
+    right: 10%;}
+    .carousel-control-prev {
+        left: 1100px;
+    }
+
+.carousel-control-prev, .carousel-control-next {
+    position: absolute;
+    top: 250px;
+    right: 2%;
+}
+.c_pad{
+    padding-top: 20px;
+}
+.but h2{
+    padding: 10px;
+    font-size: 30px;
+}
+.card {
+}
+.card h2{
+    font-size: 500;
+
+}
+.btn h2{
+   
+    font-size: 25px;
+}
+
